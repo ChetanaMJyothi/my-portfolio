@@ -1,0 +1,11 @@
+.card-div{
+    background: linear-gradient(82deg, rgba(52,120,244,1) 0%, rgba(33,19,102,1) 100%);  
+    color:#fff8f6;
+
+}
+.card{
+    height: 80vh;
+    display: flex;
+    align-items:center;
+    justify-content: space-evenly;
+}

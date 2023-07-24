@@ -1,0 +1,26 @@
+.skill-div{
+    background: linear-gradient(82deg, rgba(52,120,244,1) 0%, rgba(33,19,102,1) 100%);
+    color:#fff8f6;
+    height: 100vh;
+    
+}
+
+.tech{
+width: 70px;
+margin: 40px 40px;
+}
+.tech:hover{
+    cursor: pointer;
+}
+h1{
+    text-align: center;
+}
+ 
+.img-div{
+    display: flex;
+    flex-wrap:wrap; 
+    justify-content: center;
+    align-items: center;
+    margin: 50px 300px;
+   
+}

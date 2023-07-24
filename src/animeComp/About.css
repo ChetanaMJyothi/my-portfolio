@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Wix+Madefor+Text&display=swap');
+.about-div{
+    background: linear-gradient(82deg, rgba(52,120,244,1) 0%, rgba(33,19,102,1) 100%);
+    color:#fff8f6;
+}
+.about-div h1{
+    text-align: center;
+    
+}
+.about-subDiv{
+    height: 80vh;
+    display: flex; 
+    justify-content: center;
+     align-items: center;  
+     
+}
+
+    
+.about-p{
+ width: 500px;
+ font-family: 'Wix Madefor Text', sans-serif;
+ line-height: 30px;
+text-align: justify;
+font-size: 20px;
+}

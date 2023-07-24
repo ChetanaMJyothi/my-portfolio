@@ -1,0 +1,8 @@
+
+.box {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: linear-gradient(82deg, rgba(52,120,244,1) 0%, rgba(33,19,102,1) 100%);
+
+  }

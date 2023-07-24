@@ -1,0 +1,45 @@
+.ql-main{
+    background: linear-gradient(82deg, rgba(52,120,244,1) 0%, rgba(33,19,102,1) 100%);
+    color:#fff8f6;
+font-size: larger;
+}
+.ql-div{
+    height: 80vh;
+}
+.set{
+display: flex;
+flex-direction: row;
+justify-content:space-around
+}
+.line{
+    width:5px;
+    height: 600px;
+    border: 2px solid rgb(248, 243, 243);
+    background-color: rgb(248, 243, 243);
+    border-radius: 10px;
+}
+.year-div p{
+    width: 150px;
+    height: 100px;
+    text-align:end;
+    padding: 10px;
+}
+.info-div div{
+    width: 400px;
+    height: 100px;
+    padding: 10px;
+
+}
+.info-div div:not(:last-child){
+    border-bottom: 1px solid rgb(248, 243, 243);
+
+}
+.year-div p:not(:last-child){
+    border-bottom: 1px solid rgb(248, 243, 243);
+
+}
+.anime_text{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly
+}
