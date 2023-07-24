@@ -7,11 +7,10 @@ import git from '../images/git.png'
 import java from '../images/java.png'
 import javascript from '../images/javascript.png'
 import materialUi from '../images/material-ui.png'
-import react from '../images/react-native.png'
 import redux from '../images/redux.png'
 import './Skill.css';
 import { motion } from "framer-motion";
-import { Player, Controls } from '@lottiefiles/react-lottie-player';
+import { Player } from '@lottiefiles/react-lottie-player';
 import node from '../images/node.png';
 import mongodb from '../images/mongodb.png';
 import express from '../images/express.png';

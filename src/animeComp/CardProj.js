@@ -4,10 +4,8 @@ import './CardProj.css';
 import { motion } from "framer-motion";
 import expense from '../images/expense.png';
 import isro from '../images/isro.png';
-import resort from '../images/resort.png';
 import twitter from '../images/twitter.png';
 import { Link } from 'react-router-dom';
-import {useState} from "react";
 import map from '../images/map.png'
 import { Card, Image, ButtonGroup, Button, CardBody, CardFooter,Text, Stack, Heading, Divider} from '@chakra-ui/react'
 function CardProj(){
@@ -55,7 +53,6 @@ return(
   <HStack spacing='30px' flexWrap='wrap' justifyContent='space-evenly' rowGap='30px'>
   {proj.map((obj)=>{ 
     x=x+0.2;
-  {console.log("CardProj")}
 
   return(
     <motion.div   
